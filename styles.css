@@ -1,0 +1,70 @@
+.header {
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    text-decoration: none;
+    color: yellow;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+a {
+    color: white;
+}
+.contactheader {
+    float: left;
+}
+.headerright {
+    float: right;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+}
+.tacobody {
+    padding: 10px;
+    background-image: url(https://media.giphy.com/media/3o6ZsUk2bRRhmROuw8/giphy.gif);
+    background-size: cover;
+    color: yellow;
+}
+.beerbody {
+    padding: 10px;
+    background-image: url(https://media.giphy.com/media/3oGRFvfMmYi0wSuO7m/giphy.gif);
+    background-size: cover;
+    text-align: right;
+}
+.bakedbody {
+    text-align: center;
+    padding-right: 20px;
+    background-color: black;
+    color: blue;
+}
+img{
+    height: 250px;
+    width: auto;
+}
+#picture {
+    max-width: 800px;
+    height: auto;
+}
+#picturesmall {
+    max-width: 1000px;
+    height: auto;
+}
+#gif {
+    width: 100px;
+    height:auto;
+}
+p{
+    font-weight: bold;
+}
+.spacer {
+    padding-top: 60px;
+}
+.contact {
+    padding-top: 150px;;
+}
+
